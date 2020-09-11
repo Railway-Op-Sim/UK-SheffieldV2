@@ -21,4 +21,5 @@ This route covers the main station in Sheffield, as well as Meadowhall to the No
 
 ## Data Sources 
 
-- Track and signal location from [TRAKSY](https://traksy.uk/live)
+* Track and signal location from [TRAKSY](https://traksy.uk/live)
+* [Sectional Appendices](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
