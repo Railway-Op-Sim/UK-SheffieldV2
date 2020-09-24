@@ -13,12 +13,13 @@ This route covers the main station in Sheffield, as well as Meadowhall to the No
 | Track Plan     | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Signalling      | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
 | Naming | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
-| Speed Limits | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24">|
-| Distances | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
+| Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">|
+| Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Timetable | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
 | Session | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
 | Documentation | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
 
 ## Data Sources 
 
-- Track and signal location from [TRAKSY](https://traksy.uk/live)
+* Track and signal location from [TRAKSY](https://traksy.uk/live)
+* [Sectional Appendices](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
