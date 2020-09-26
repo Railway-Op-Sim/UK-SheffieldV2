@@ -1,0 +1,13 @@
+Enter
+Manchester 6-5 7-5
+London 8-12 9-12
+Lincoln 92-19 92-18
+Barnsley 76-33 75-33
+Doncaster 73-35 72-35
+
+Exit
+Manchester 6-6
+London 8-13
+Lincoln 93-19
+Barnsley 76-32
+Doncaster 73-35
