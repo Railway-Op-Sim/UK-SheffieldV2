@@ -4,7 +4,7 @@ This route covers the busy station of Sheffield, in South Yorkshire. In this sim
 
 ## Simulation
 
-The included timetable starts at 0700 and is based on a normal Friday service. With this timetable, it may be nessecary to double stack terminating services in platforms 3 and 4, just make sure you look at the departure time before you do this.
+The included timetable starts at 0700 and is based on a normal Friday service. With this timetable, it may be necessary to double stack terminating services in platforms 3 and 4, just make sure you look at the departure time before you do this.
 
 ## Development
 

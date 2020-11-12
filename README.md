@@ -2,7 +2,7 @@
 
 This route is open to contributions from any developer.
 
-This route covers the main station in Sheffield, as well as Meadowhall to the North and Dore and Totley to the South. This project is a rebuilding of the original [Sheffield](https://www.railwayoperationsimulator.com/railway-projects/sheffield) route by Daniel Gill.
+This route covers the main station in Sheffield, as well as Meadowhall to the North and Dore and Totley to the South. This project is a rebuilding of the original [Sheffield](https://www.railwayoperationsimulator.com/catalog/community-projects/united-kingdom/sheffield) route by Daniel Gill.
 
 ![Track Diagram](https://raw.githubusercontent.com/Railway-Op-Sim/UK-SheffieldV2/master/Images/SheffieldV2.bmp)
 
@@ -19,7 +19,7 @@ This route covers the main station in Sheffield, as well as Meadowhall to the No
 | Session | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 | Documentation | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
 
-## Data Sources 
+## Data Sources
 
 * Track and signal location from [TRAKSY](https://traksy.uk/live)
 * [Sectional Appendices](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
